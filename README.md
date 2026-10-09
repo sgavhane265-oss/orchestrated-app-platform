@@ -170,20 +170,14 @@ The services communicate over a custom Docker bridge network named `mern-network
 
 The current application supports task creation and listing. User authentication, task editing, deletion, and completion tracking are not implemented yet.
 
-## License
+License
 
-Choose a license before distributing or reusing this project publicly.
-```
+Copyright © 2026 [Shubham Gavhane]. All rights reserved.
 
-Save with `Ctrl+O`, press `Enter`, then `Ctrl+X`.
+This repository is publicly available for viewing, learning, and personal educational use.
 
-### Step 2: Check your repository
+Permission is granted to view and study the source code for non-commercial purposes. Redistribution, publication of modified versions, sublicensing, or commercial use of this project or substantial portions of its original source code requires prior written permission from the copyright holder.
 
-Run:
+Third-party libraries, dependencies, and components remain subject to their respective licenses.
 
-```bash
-cd ~/dockerized-mern-stack
-git status --short
-```
-
-The README is now ready for your repository. One detail to remember: replace `<YOUR_REPOSITORY_URL>` with your actual GitHub repository URL when you publish it.
+The software is provided "AS IS", without warranty of any kind, express or implied, to the extent permitted by applicable law.
